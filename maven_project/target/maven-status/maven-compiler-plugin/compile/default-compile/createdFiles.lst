@@ -1,0 +1,10 @@
+academy\learnprograming\scopes\SessionScope.class
+academy\learnprograming\scopes\DependentScope.class
+academy\learnprograming\scopes\ConversationScope.class
+academy\learnprograming\scopes\ApplicationScope.class
+academy\learnprograming\sessionbeans\Police.class
+academy\learnprograming\beans\ScopesBean.class
+academy\learnprograming\scopes\RequestScope.class
+academy\learnprograming\sessionbeans\AuditedService.class
+academy\learnprograming\sessionbeans\Soldier.class
+academy\learnprograming\scopes\LuckyDishRaffle.class
